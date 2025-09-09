@@ -8,7 +8,7 @@ function Sidebar() {
     { name: "Attendees", path: "/dashboard/attendees", icon: "👥" },
     { name: "Registrations", path: "/dashboard/registrations", icon: "📝" }, // New item
     { name: "Reports", path: "/dashboard/reports", icon: "📊" },
-    // { name: "Settings", path: "/dashboard/settings", icon: "⚙️" },
+    // { name: "Settings", path: "/dashboard/settings", icon: "⚙️" }, settins
   ];
 
   return (
