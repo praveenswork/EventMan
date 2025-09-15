@@ -43,7 +43,7 @@ EventMan is a web-based platform for smooth event management—built with React,
    git clone https://github.com/praveenswork/EventMan.git
    cd EventMan
 2. Install dependencies:
-
+   ```bash
    npm install
 
 
@@ -58,7 +58,7 @@ EventMan is a web-based platform for smooth event management—built with React,
    Replace the placeholder config in src/firebase.js (or wherever your config file is) with your own.
 
 4. Run locally:
-
+   ```bash
    npm start
    
    
@@ -67,11 +67,11 @@ EventMan is a web-based platform for smooth event management—built with React,
 📦 Deployment
 
    To build for production & deploy via Firebase:
-   
+   ```bash
    npm run build
    firebase deploy
-   
-   
+   ```
+
    Make sure you're logged into Firebase CLI and your project is selected.
 
 ⚠️ Troubleshooting / Common Issues
