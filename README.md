@@ -59,18 +59,18 @@ EventMan is a web-based platform for smooth event management—built with React,
 
 4. Run locally:
    ```bash
-   npm start
-   
+   npm run dev
+   ```
    
    Then open http://localhost:3000 (or the port your dev server shows).
 
 📦 Deployment
 
    To build for production & deploy via Firebase:
-   ```bash
-   npm run build
-   firebase deploy
-   ```
+      ```bash
+      npm run build
+      firebase deploy
+      ```
 
    Make sure you're logged into Firebase CLI and your project is selected.
 
